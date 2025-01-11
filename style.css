@@ -277,6 +277,7 @@ main {
     gap: 32px;
     max-width: 1088px;
     width: 100%;
+    flex-wrap: wrap;
 }
 
 .second_buttontwo {
